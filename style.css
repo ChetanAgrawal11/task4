@@ -1,0 +1,18 @@
+.div2 img {
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+    transition: transform 0.3s ease; 
+    border-radius: 8px;
+}
+
+.div2 img:hover  {
+    transform: scale(1.2); 
+}
+.div2 div:hover {
+    color: blue;
+}
+
+.div2 p{
+    margin-top: 20px;
+}
